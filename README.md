@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://autometrixai.com"><img src="https://img.shields.io/badge/autometrixai.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/manuel-rodenas-alarcon-2a3a61301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
 I design and build AI systems that take repetitive work off people's plates: voice agents that answer the phone, chatbots that sell, custom software, automations that connect everything, and pipelines that bring in leads. Built for production and measured by results.
